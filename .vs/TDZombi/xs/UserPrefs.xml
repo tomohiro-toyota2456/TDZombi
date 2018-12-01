@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{5ACBB00D-3021-6396-84CE-8E1884FB4A60}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs" Line="1" Column="1" />
+      <File FileName="Assets/SampleMove.cs" Line="19" Column="55" />
+      <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs" Line="99" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/toyota/TDZombi/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs" relfile="Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs" line="101" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
